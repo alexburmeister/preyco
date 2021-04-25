@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UICamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AlexLayer1
+  - AlexLayer2
+  - AlexLayer3
+  - AlexLayer4
+  - AlexLayer5
+  - AlexLayer6
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AlexLayer1
+    uniqueID: 1031829643
+    locked: 0
+  - name: AlexLayer2
+    uniqueID: 2054898139
+    locked: 0
+  - name: AlexLayer3
+    uniqueID: 510242647
+    locked: 0

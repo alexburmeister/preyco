@@ -1,0 +1,10 @@
+# Config file
+
+# The port connected to the eye-tracker or simulator.
+port 11003
+
+# The port connected to the eye-tracker or simulator.
+serverport 11004
+
+# States whether the simulator is used.
+simulator false
